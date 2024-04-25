@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python byte-compiled files
+*.pyc
+
+# Ignore directories produced by PyTest
+__pycache__/
+
+# Ignore database files if they are present
+*.db
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore the lindex virtual environment
+lindex/
